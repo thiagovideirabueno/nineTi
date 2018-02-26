@@ -1,3 +1,2 @@
-1 - DevOp Rulez
-2 - Linux De boa
-3 - OPE é o caminho para o TCC 
+Gostaria de atuar na area de pesquisa e desenvolvimento de IoT
+Google é uma boa opção, mas estou aceitando bolsa de uma federal. 
